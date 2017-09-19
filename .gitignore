@@ -1,5 +1,7 @@
 ###Python###
 
+sign_lang_recognizer.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
@@ -78,7 +80,7 @@ target/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
 
 # Thumbnails
 ._*
